@@ -1,0 +1,2 @@
+We find the model to be overfitting. To resolve this issue I tried 3 different architectures, different hyperparameters, different values for weight decay, dropout rates, different number of attention heads for GAT, etc. This project was completed within 6-8 hrs and due to time constraints I could not explore further solutions.
+Potential Future Solutions: Early stopping, more aggressive regularization, or using more advanced techniques like graph augmentation.
